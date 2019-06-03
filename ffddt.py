@@ -77,13 +77,13 @@ def show_program():
  ------------------------------------------------------
 
     Author     Debby Anggraini 'CiKu370'
-    Name       OSIF 'Open Source Information Facebook'
+    Name       FFDDT
     CodeName   Prince Yasin
     version    full version
-    Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Date       11/02/2015 
+
+
+
 
 * if you find any errors or problems , please contact
   author
