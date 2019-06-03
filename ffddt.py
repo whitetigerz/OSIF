@@ -62,8 +62,8 @@ def baliho():
 		print "Y".center(44)
 		print 'A'.center(44)
 		print 'S'.center(44)
-        print 'I'.center(44)
-        print 'N'.center(44)
+                print 'I'.center(44)
+                print 'N'.center(44)
 		print ' ' + W
 		print ('YASIN').center(44)
 		print (W + '     [' + G +'FACEBOOK FRIENDS DATA DUMP TOOL'+ W + ']')
